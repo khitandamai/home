@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khitandamai.my.id/sitemap.xml
